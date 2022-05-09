@@ -1,5 +1,4 @@
 import * as admin from "firebase-admin";
-import * as ffn from "firebase-functions";
 import { BinanceExchange } from "../../exchanges/spot/binance";
 import { Signal } from "../../models/signal.model";
 import { User } from "../../models/user.model";
