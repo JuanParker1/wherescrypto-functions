@@ -1,5 +1,5 @@
 {
-  "name": "wherescrypto-functions",
+  "name": "wherescrypto-be",
   "scripts": {
     "lint": "eslint --ext .js,.ts .",
     "build": "tsc",
